@@ -1,0 +1,18 @@
+{
+  "appsFlyerDevKey": "1222",
+  "appleAppID": "1111233",
+  "oneSignalAppID": "13112323",
+  "environment": "Development",
+  "version": "1.0.0",
+  "lastUpdated": "2025-01-16T21:01:16Z",
+  "features": {
+    "pushNotificationsEnabled": true,
+    "analyticsEnabled": true,
+    "privacyPolicyRequired": true,
+    "webViewEnabled": true,
+    "debugLogsEnabled": true
+  },
+      "showPrivacy": false
+      "privacy_url": "https://your-privacy-policy-url.com"
+
+}
