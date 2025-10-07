@@ -12,7 +12,7 @@
     "webViewEnabled": true,
     "debugLogsEnabled": true
   },
-      "showPrivacy": true,
+      "showPrivacy": false,
       "privacy_url": "https://maskycreator.github.io/chickyeggs/"
 
 }
